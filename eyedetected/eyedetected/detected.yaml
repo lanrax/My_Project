@@ -1,0 +1,14 @@
+version: "3"
+services:
+  eye:
+    image: eyedetected:v3
+    restart : always
+    container_name: eye-dected
+    volumes:
+      - ./settings.py:/root/web/eyedetected/settings.py
+      - ./pic:/root/web/pic/
+    command: gunicorn eyedetected.wsgi:application -c gunicorn.conf.py
+    #command: python3 manage.py runserver
+    ports:
+      - "8000:8000"
+    tty: true

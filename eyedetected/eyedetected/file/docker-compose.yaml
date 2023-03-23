@@ -1,0 +1,88 @@
+version: "3"
+services:
+   #服务名称
+   fire:
+      #镜像
+      image: detected:v2
+      #自动拉起服务
+      restart: always
+      #容器名称
+      container_name: fire_detect
+      #环境变量设置
+      environment:
+        #检测类型
+        - DETECT_TYPE=fire
+        #tensorrt文件
+        - PLUGIN_LIBRARY=fbuild/libmyplugins.so
+        #tensorrt模型引擎
+        - engine_file_path=fbuild/fire.engine
+      #文件卷
+      volumes:
+        - ./ztensorrt:/ztensorrt
+      #容器运行时采用nvidia
+      runtime: nvidia
+      #启动代码命令
+      command: python3 detected.py
+      #映射端口
+      ports:
+        - 6666:6666
+      #保持容器常驻
+      tty: true
+   #服务名称
+   fire_infrared:
+      #镜像
+      image: detected:v2
+      #自动拉起服务
+      restart: always
+      #容器名称
+      container_name: fire_infrared_detect
+      #环境变量设置
+      environment:
+        #检测类型
+        - DETECT_TYPE=fire_infrared
+        #tensorrt文件
+        - PLUGIN_LIBRARY=fibuild/libmyplugins.so
+        #tensorrt模型引擎
+        - engine_file_path=fibuild/fire_infrared.engine
+      #文件卷
+      volumes:
+        - ./ztensorrt:/ztensorrt
+      #容器运行时采用nvidia
+      runtime: nvidia
+      #启动代码命令
+      command: python3 detected.py
+      #映射端口
+      ports:
+        - 6667:6666
+      #保持容器常驻
+      tty: true
+   person:
+      image: detected:v2
+      restart: always
+      container_name: person_detect
+      environment:
+        - DETECT_TYPE=person
+        - PLUGIN_LIBRARY=pbuild/libmyplugins.so
+        - engine_file_path=pbuild/person.engine
+      volumes:
+        - ./ztensorrt:/ztensorrt
+      runtime: nvidia
+      command: python3 detected.py
+      ports:
+        - 6668:6666
+      tty: true
+   person_infrared:
+      image: detected:v2
+      restart: always
+      container_name: person_infrared_detect
+      environment:
+        - DETECT_TYPE=person_infrared
+        - PLUGIN_LIBRARY=pibuild/libmyplugins.so
+        - engine_file_path=pibuild/person_infrared.engine
+      volumes:
+        - ./ztensorrt:/ztensorrt
+      runtime: nvidia
+      command: python3 detected.py
+      ports:
+        - 6669:6666
+      tty: true

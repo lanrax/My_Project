@@ -1,0 +1,18 @@
+version: "3"
+services:
+  postgres:
+    image: postgres
+    container_name: postgresql_db
+    restart: always
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: qwe123asd
+    ports:
+      - 5443:5432
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      - /opt/FaceService:/opt/FaceService
+      - /etc/localtime:/etc/localtime:ro
+      - ./public.sql:/docker-entrypoint-initdb.d/public.sql
+

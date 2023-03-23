@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d10bc3-adf5-4dee-ad53-8761437a4522" name="变更" comment="updata">
+      <change beforePath="$PROJECT_DIR$/streamlit_main/yolov5/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_main/yolov5/detect.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/streamlit_main/yolov5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Ibx0ZEo9rlJAfLR8CumkdKQGoE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hadoop/yolov5_streamlit&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/streamlit_main/data/image_show" />
+      <recent name="$PROJECT_DIR$/streamlit_main/many_func/ku/utils" />
+      <recent name="$PROJECT_DIR$/streamlit_main/many_func/ku" />
+      <recent name="$PROJECT_DIR$/streamlit_main/many_func" />
+      <recent name="$PROJECT_DIR$/streamlit_main/models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/streamlit_main/many_func" />
+      <recent name="$PROJECT_DIR$/select_optional" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.select_3d_det">
+    <configuration name="Area_compute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5_streamlit_fina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/streamlit_main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/streamlit_main/many_func/Area_compute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neijing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5_streamlit_fina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/streamlit_main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/streamlit_main/many_func/neijing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5_streamlit_fina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="select_3d_det" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5_streamlit_fina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/streamlit_main/select_optional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/streamlit_main/select_optional/select_3d_det.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5_streamlit_fina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/streamlit_main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/streamlit_main/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.select_3d_det" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.neijing" />
+        <item itemvalue="Python.Area_compute" />
+        <item itemvalue="Python.practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="53d10bc3-adf5-4dee-ad53-8761437a4522" name="变更" comment="" />
+      <created>1670463862623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670463862623</updated>
+      <workItem from="1670463864702" duration="487000" />
+      <workItem from="1670464369488" duration="1384000" />
+      <workItem from="1670465790016" duration="113000" />
+      <workItem from="1670465981627" duration="1476000" />
+      <workItem from="1670469310769" duration="19728000" />
+      <workItem from="1670492438674" duration="1271000" />
+      <workItem from="1670493762754" duration="12000" />
+      <workItem from="1670555041416" duration="1669000" />
+      <workItem from="1670556783703" duration="16000" />
+      <workItem from="1670557083968" duration="3979000" />
+      <workItem from="1670565797320" duration="14847000" />
+      <workItem from="1670814229231" duration="24000" />
+      <workItem from="1670816093154" duration="845000" />
+      <workItem from="1670822658127" duration="558000" />
+      <workItem from="1670829762198" duration="30000" />
+      <workItem from="1670838523524" duration="2931000" />
+      <workItem from="1670895181688" duration="226000" />
+      <workItem from="1670895437076" duration="21132000" />
+      <workItem from="1670924164450" duration="1503000" />
+      <workItem from="1670987561330" duration="425000" />
+      <workItem from="1671158705699" duration="147000" />
+      <workItem from="1671158891530" duration="13000" />
+      <workItem from="1672191460796" duration="9454000" />
+      <workItem from="1672210662726" duration="326000" />
+      <workItem from="1672219379220" duration="652000" />
+      <workItem from="1672220108621" duration="1506000" />
+      <workItem from="1672294432926" duration="603000" />
+      <workItem from="1672295081191" duration="317000" />
+      <workItem from="1672300937926" duration="130000" />
+      <workItem from="1672723315510" duration="4323000" />
+      <workItem from="1672738974999" duration="713000" />
+      <workItem from="1672740205172" duration="20000" />
+      <workItem from="1672796816512" duration="139000" />
+      <workItem from="1672802993362" duration="44000" />
+      <workItem from="1672810279645" duration="163000" />
+      <workItem from="1672811187239" duration="124000" />
+      <workItem from="1672811700709" duration="8285000" />
+      <workItem from="1672882993548" duration="15000" />
+      <workItem from="1672898084208" duration="12481000" />
+      <workItem from="1672911098902" duration="13000" />
+      <workItem from="1672975266499" duration="333000" />
+      <workItem from="1672977087713" duration="398000" />
+      <workItem from="1672982601906" duration="531000" />
+      <workItem from="1672984907316" duration="350000" />
+      <workItem from="1672986451225" duration="693000" />
+      <workItem from="1672987367739" duration="9000" />
+      <workItem from="1672988496382" duration="2038000" />
+      <workItem from="1672995839100" duration="20000" />
+      <workItem from="1672997352577" duration="1157000" />
+      <workItem from="1673228426700" duration="21774000" />
+      <workItem from="1673255334980" duration="3636000" />
+      <workItem from="1673314388969" duration="21827000" />
+      <workItem from="1673344576775" duration="186000" />
+      <workItem from="1673345270800" duration="743000" />
+      <workItem from="1673346145233" duration="433000" />
+      <workItem from="1673346581129" duration="745000" />
+      <workItem from="1673400084573" duration="21011000" />
+      <workItem from="1673429776477" duration="466000" />
+      <workItem from="1675920572997" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="updata">
+      <created>1673344643046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673344643046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updata" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$biaoding.coverage" NAME="biaoding 覆盖结果" MODIFIED="1673316181855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main/many_func" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$myclient.coverage" NAME="myclient 覆盖结果" MODIFIED="1670910431322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1673248031812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$ttttt.coverage" NAME="ttttt 覆盖结果" MODIFIED="1670574783912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$select_3d_det.coverage" NAME="select_3d_det 覆盖结果" MODIFIED="1673430209311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main/select_optional" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$yolov5.coverage" NAME="yolov5 覆盖结果" MODIFIED="1672902059904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit$detect.coverage" NAME="detect 覆盖结果" MODIFIED="1670486857878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$experimental.coverage" NAME="experimental 覆盖结果" MODIFIED="1672899276355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main/models" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$bbb.coverage" NAME="bbb 覆盖结果" MODIFIED="1670575865459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$detect_video.coverage" NAME="detect_video 覆盖结果" MODIFIED="1672906376338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$.coverage" NAME=" 覆盖结果" MODIFIED="1670573132031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$canny_detect.coverage" NAME="canny_detect 覆盖结果" MODIFIED="1673229245414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$select_cls.coverage" NAME="select_cls 覆盖结果" MODIFIED="1670899504556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$Area_compute.coverage" NAME="Area_compute 覆盖结果" MODIFIED="1673422372538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$yasuo.coverage" NAME="yasuo 覆盖结果" MODIFIED="1670568233716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$video01.coverage" NAME="video01 覆盖结果" MODIFIED="1672294866672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$practice.coverage" NAME="practice 覆盖结果" MODIFIED="1673420253486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$area_test.coverage" NAME="area_test 覆盖结果" MODIFIED="1673248990505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$.coverage" NAME=" 覆盖结果" MODIFIED="1673236212835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$neijing.coverage" NAME="neijing 覆盖结果" MODIFIED="1673423065855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$settings.coverage" NAME="settings 覆盖结果" MODIFIED="1673430059176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$my_test_client.coverage" NAME="my_test_client 覆盖结果" MODIFIED="1670915617974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$my_test_client__1_.coverage" NAME="my_test_client (1) 覆盖结果" MODIFIED="1672825601636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_test$detect.coverage" NAME="detect 覆盖结果" MODIFIED="1672817437622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+    <SUITE FILE_PATH="coverage/yolov5_streamlit_fina$detect.coverage" NAME="detect 覆盖结果" MODIFIED="1672899450953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/streamlit_main" />
+  </component>
+</project>
