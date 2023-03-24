@@ -1,0 +1,2 @@
+[27/Jun/2022:09:19:55 +0000] <31795> 10.10.10.158 "POST /inddetect/crowd_sync HTTP/1.1" 200 1.524798 55 -" "PostmanRuntime/7.29.0"
+[27/Jun/2022:09:20:08 +0000] <31795> 10.10.10.158 "POST /inddetect/crowd_infrared_sync HTTP/1.1" 200 0.586867 54 -" "PostmanRuntime/7.29.0"

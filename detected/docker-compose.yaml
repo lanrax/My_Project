@@ -1,0 +1,10 @@
+version: "3"
+services:
+  fire:
+    image: detected:v2
+    container_name: detected
+    working_dir: /root/modelfire/
+    command: gunicorn --config ./gunicorn.config.py fire:app 
+    ports:
+      - "9002:9002"
+    tty: true

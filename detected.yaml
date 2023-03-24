@@ -1,0 +1,10 @@
+version: "3"
+services:
+  eyedetected:
+    image: eyedected:v1
+    container_name: eyedected
+    command: python3 manage.py runserver
+    #command: gunicorn eyedected.wsgi:application -c gunicorn.conf.py
+    ports:
+      - "8000:8000"
+    tty: true

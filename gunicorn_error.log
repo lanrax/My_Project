@@ -1,0 +1,6 @@
+[2022-06-27 17:18:39 +0800] [31793] [INFO] Starting gunicorn 20.1.0
+[2022-06-27 17:18:39 +0800] [31793] [INFO] Listening at: http://0.0.0.0:8000 (31793)
+[2022-06-27 17:18:39 +0800] [31793] [INFO] Using worker: gthread
+[2022-06-27 17:18:39 +0800] [31795] [INFO] Booting worker with pid: 31795
+[2022-06-27 09:42:45 +0000] [31795] [INFO] Parent changed, shutting down: <Worker 31795>
+[2022-06-27 09:42:45 +0000] [31795] [INFO] Worker exiting (pid: 31795)
